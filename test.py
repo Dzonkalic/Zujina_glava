@@ -1,0 +1,1 @@
+print("Zuja_globus")
