@@ -1,1 +1,0 @@
-print("Zuja_globus")
